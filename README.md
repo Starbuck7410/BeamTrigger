@@ -1,5 +1,5 @@
-#Meet the BeamTrigger.
-##A remote trigger for Nikon cameras, that works with an IR blaster.
+# Meet the BeamTrigger.
+## A remote trigger for Nikon cameras, that works with an IR blaster.
 
 Supported models include all models with the regular IR support, which you can easily spot on your camera with the little (5mm) black dot on the front side of the right hand grip on the camera body.
 
