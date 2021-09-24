@@ -9,3 +9,5 @@ Materials list:
 - 5mm IR LED ([kinda like this](https://www.amazon.com/Adafruit-Super-bright-5mm-pack-ADA388/dp/B00ULB0U44/ref=sr_1_6?dchild=1&keywords=Infrared+led&qid=1632492751&sr=8-6), I took mine from an old remote)
 - 4x M3x20mm Bolts
 - 4x M3 nuts
+
+[Download the models on Thingiverse!](https://www.thingiverse.com/thing:4973246)
